@@ -42,7 +42,7 @@ The following tables show the sales percentages of the sold clothing sizes in ea
 ![Clothing by size Nov 2016 to Apr 2017](percentage_clothing_sizes_sold_all_brands.png)
 
 
-#### Results by brands:
+### **Results by brands**:
 
 Adult Women: Over 40% of the pieces sold in the summer were size G.
 
@@ -60,7 +60,7 @@ Adult Men Urban: Over 40% of the sold tops were size G and over 57% of the sold 
 
 Young Men: This was the brand that presented the greatest balance between the amount of sales of each clothing size.
 
-#### Conclusion:
+### **Conclusion**:
 Among adult brands, the size G was really the most popular. In the young women brand, the most purchased size was P.
 
 Having this information, in the store, the employees can pay more attention to the supply of the most sold sizes. On the Distribution Centers, packs with the proportional amount of this sizes can be sent to the store.
