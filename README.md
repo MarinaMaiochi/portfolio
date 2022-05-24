@@ -13,3 +13,16 @@ ___
 
 ## [Experiment Planning](/experiment-planning/README.md)
 Assignment on experiment planning course with Python. Help a baker to optimize the cupcake recipe.
+___
+
+## [Correlation and Regression](/correlation-regression/README.md)
+Beer consumption in São Paulo.
+___
+
+## [Hypotesis Test](/hypotesis-test/README.md)
+Test the hypothesis that the average income of workers in Rio de Janeiro is lower than the average income of workers in São Paulo.
+
+___
+
+## [Probabilities Sampling and Estimation](/probabilities-sampling-estimation/README.md)
+A client commissioned us to carry out a study to assess the income of heads of households in Brazil.
