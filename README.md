@@ -19,7 +19,7 @@ ___
 Beer consumption in São Paulo.
 ___
 
-## [Hypotesis Test](/hypotesis-test/README.md)
+## [Hypothesis Testing](/hypothesis-testing/README.md)
 Test the hypothesis that the average income of workers in Rio de Janeiro is lower than the average income of workers in São Paulo.
 
 ___
