@@ -25,4 +25,4 @@ Test the hypothesis that the average income of workers in Rio de Janeiro is lowe
 ___
 
 ## [Probabilities Sampling and Estimation](/probabilities-sampling-estimation/README.md)
-A client commissioned us to carry out a study to assess the income of heads of households in Brazil.
+A client commissioned us to carry out a study to assess the income of households in Brazil.
