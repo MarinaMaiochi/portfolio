@@ -26,3 +26,8 @@ ___
 
 ## [Probabilities Sampling and Estimation](/probabilities-sampling-estimation/README.md)
 A client commissioned us to carry out a study to assess the income of households in Brazil.
+
+___
+
+## [Power BI](/power_bi/README.md)
+Personal project about dutch public libraries in Power BI.
